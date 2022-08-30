@@ -25,7 +25,6 @@
 
 <a href="https://linkedin.com/in/parth-singh-339ba7159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-singh-339ba7159" height="30" width="40" /></a>
 <a href="https://kaggle.com/prsn12356" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prsn12356" height="30" width="40" /></a>
-<a href="https://instagram.com/__p.__a.__r.__t.__h.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__p.__a.__r.__t.__h.__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
